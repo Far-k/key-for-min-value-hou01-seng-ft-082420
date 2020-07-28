@@ -10,6 +10,6 @@ def key_for_min_value(name_hash)
   elsif value.is_empty?
     value = nil
   end
-  
+
 
 end
